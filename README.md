@@ -97,8 +97,7 @@ F H <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-![Uploading Screenshot from 2025-09-09 13-55-23.png…]()
-
+<img width="480" height="70" alt="Screenshot from 2025-09-09 13-55-23" src="https://github.com/user-attachments/assets/01b9f476-a1bb-434e-be59-c415676a5de3" />
 <hr>
 
 <hr>
