@@ -97,7 +97,7 @@ F H <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
+![Uploading Screenshot from 2025-09-09 13-55-23.png…]()
 
 <hr>
 
@@ -113,7 +113,7 @@ F H <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-['0', '1', '2', '3', '4']
+<img width="480" height="70" alt="image" src="https://github.com/user-attachments/assets/cc74eb80-6c89-4f68-b427-3176a247f363" />
 
 <hr>
 <h3>Result:</h3>
